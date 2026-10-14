@@ -1,0 +1,7 @@
+{
+  "server": "(localdb)\\KKTCOIG",
+  "database": "InvoiceDB",
+  "username": "KKT",
+  "password": "KktC02o26!@#$",
+  "use_sql_server": false
+}

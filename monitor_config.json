@@ -1,0 +1,6 @@
+{
+    "client_app_path": "C:\\path\\to\\your\\main_app.exe",
+    "api_base_url": "http://127.0.0.1:5000",
+    "refresh_interval": 5,
+    "enable_notifications": true
+}
